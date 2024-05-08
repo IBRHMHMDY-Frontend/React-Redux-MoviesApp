@@ -1,4 +1,6 @@
 #React+Redux-MoviesApp
+    API = https://api.themoviedb.org/3
+    ## Packages
     "@reduxjs/toolkit": "^1.9.1",
     "axios": "^1.2.2",
     "dayjs": "^1.11.7",
@@ -12,5 +14,4 @@
     "react-redux": "^8.0.5",
     "react-router-dom": "^6.6.2",
     "react-select": "^5.7.0",
-    "sass": "^1.57.1"
-    API = https://api.themoviedb.org/3
+    sass": "^1.57.1"
