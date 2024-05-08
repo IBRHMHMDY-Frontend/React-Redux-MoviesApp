@@ -1,5 +1,7 @@
 # React+Redux-MoviesApp
+    
     * API = https://api.themoviedb.org/3
+
     ## Packages
      * "@reduxjs/toolkit": "^1.9.1",
      * "axios": "^1.2.2",
